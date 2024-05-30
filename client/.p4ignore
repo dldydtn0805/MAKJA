@@ -1,0 +1,19 @@
+# Ignore Intermediate files
+Intermediate/
+
+# Ignore Saved files
+Saved/
+
+# Ignore Binaries
+Binaries/
+
+# Ignore Derived Data Cache
+DerivedDataCache/
+
+# Ignore Visual Studio temporary files
+.vs/
+*.sln
+*.suo
+
+# Ignore specific configuration files
+UserSettings.ini
