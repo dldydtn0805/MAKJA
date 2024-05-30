@@ -182,5 +182,5 @@
 
 ## 3. Game Classes (클래스 관계도)
 
-![image (2)](https://github.com/dldydtn0805/MakJa/assets/139421083/c00ca577-87ca-4b6d-8a3d-e99404950cb5)
+![image (2)](https://github.com/dldydtn0805/MakJa/assets/139421083/05fabdd6-9c00-46cc-81c1-5cbc92627daa)
 
