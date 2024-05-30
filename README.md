@@ -62,18 +62,14 @@
 
 ---
 
-- 로그인
-    
-    ![로그인.gif](https://prod-files-secure.s3.us-west-2.amazonaws.com/a92cda66-0ddb-4dc3-8d6a-448ae62c1f2c/63a5c5f5-1536-4a6f-874c-98c945a714c8/%EB%A1%9C%EA%B7%B8%EC%9D%B8.gif)
-    
 
-- 로그아웃
+- 게임시작
     
-    ![로그아웃.gif](https://prod-files-secure.s3.us-west-2.amazonaws.com/a92cda66-0ddb-4dc3-8d6a-448ae62c1f2c/2ba8f065-8028-437d-86ae-eda3ac8958d1/%EB%A1%9C%EA%B7%B8%EC%95%84%EC%9B%83.gif)
+![게임 시작](https://github.com/dldydtn0805/MakJa/assets/139421083/d55b5d66-57fd-48ab-a211-f8f67c544ce0)
     
 - 회원가입
     
-    ![회원가입.gif](https://prod-files-secure.s3.us-west-2.amazonaws.com/a92cda66-0ddb-4dc3-8d6a-448ae62c1f2c/4e07251c-0be2-44b2-8437-94ba4191e54c/%ED%9A%8C%EC%9B%90%EA%B0%80%EC%9E%85.gif)
+![회원가입](https://github.com/dldydtn0805/MakJa/assets/139421083/c3e2d402-b532-4cd0-a3d6-bac0e307436f)
     
 - 랭킹
 
