@@ -14,7 +14,8 @@
 
 ## **✨서비스 설명 ✨**
 
-![DALL·E 2024-05-19 21.19.16 - Create a game logo for 'Makja', a tower defense game set in medieval Europe. The logo should feature stylistic elements of medieval European castles, .webp](https://prod-files-secure.s3.us-west-2.amazonaws.com/a92cda66-0ddb-4dc3-8d6a-448ae62c1f2c/7ce49173-6d42-475e-b193-fccc0d19d796/DALLE_2024-05-19_21.19.16_-_Create_a_game_logo_for_Makja_a_tower_defense_game_set_in_medieval_Europe._The_logo_should_feature_stylistic_elements_of_medieval_European_castles_.webp)
+![DALL·E-2024-05-19-21 19](https://github.com/dldydtn0805/MakJa/assets/139421083/a77be337-a186-4f54-ba00-c5ce9a618a1b)
+
 
 ### **✨개요 ✨**
 
