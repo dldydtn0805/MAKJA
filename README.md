@@ -81,7 +81,7 @@
 
 ## **1. Redis**
 
-![1100px_Redis_Logo_01-1024x707.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/a92cda66-0ddb-4dc3-8d6a-448ae62c1f2c/b0f49a27-0227-40f5-9e3f-d7c73da37612/1100px_Redis_Logo_01-1024x707.png)
+![1100px_Redis_Logo_01-1024x707](https://github.com/dldydtn0805/MakJa/assets/139421083/297eafac-ab3d-41e5-baec-c74262eac6b4)
 
 > Redis는 주로 애플리케이션 캐시나 빠른 응답 속도를 가진 데이터베이스로 사용되는 오픈 소스 인메모리 NoSQL 저장소 입니다.
 > 
@@ -97,7 +97,7 @@
 
 ## **2. Docker**
 
-![docker.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/a92cda66-0ddb-4dc3-8d6a-448ae62c1f2c/316fb8a2-92e6-466a-bcc4-7ca8b59bb90b/docker.png)
+![docker](https://github.com/dldydtn0805/MakJa/assets/139421083/7cafd4dd-151f-4694-aebf-4799000195d3)
 
 > Docker는 컨테이너 기반의 오픈소스 가상화 플랫폼입니다.
 > 
@@ -166,7 +166,7 @@
 
 ---
 
-![Web App Reference Architecture.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/a92cda66-0ddb-4dc3-8d6a-448ae62c1f2c/d3e0fea1-8076-4974-b03f-b2c8c10e3901/Web_App_Reference_Architecture.png)
+![Web App Reference Architecture](https://github.com/dldydtn0805/MakJa/assets/139421083/23e7393d-9f9f-4b06-9775-6076fc051473)
 
 # **🐰 프로젝트 산출물**
 
@@ -174,12 +174,13 @@
 
 ### 1. API 명세서
 
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/a92cda66-0ddb-4dc3-8d6a-448ae62c1f2c/297395d0-0a21-4a70-a9e0-b2f3a05fa2da/Untitled.png)
+![Untitled](https://github.com/dldydtn0805/MakJa/assets/139421083/ac28b4fa-8620-4065-b763-2572bb929b46)
 
 ### 2. ERD
 
-![makja_erd.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/a92cda66-0ddb-4dc3-8d6a-448ae62c1f2c/6130208d-3440-49db-a967-59f2677ab8a0/makja_erd.png)
+![makja_erd](https://github.com/dldydtn0805/MakJa/assets/139421083/fd782be3-a03a-427b-9613-538d6c03587b)
 
 ## 3. Game Classes (클래스 관계도)
 
-![image.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/a92cda66-0ddb-4dc3-8d6a-448ae62c1f2c/af8640d8-2a3a-4e02-b706-45a78e1db2bf/image.png)
+![image (2)](https://github.com/dldydtn0805/MakJa/assets/139421083/c00ca577-87ca-4b6d-8a3d-e99404950cb5)
+
