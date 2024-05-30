@@ -69,17 +69,6 @@
 - 랭킹
 ---
 
-
-- 게임시작
-    
-![게임 시작](https://github.com/dldydtn0805/MakJa/assets/139421083/d55b5d66-57fd-48ab-a211-f8f67c544ce0)
-    
-- 회원가입
-    
-![회원가입](https://github.com/dldydtn0805/MakJa/assets/139421083/c3e2d402-b532-4cd0-a3d6-bac0e307436f)
-    
-- 랭킹
-
 # **✨ 기술 스택 ✨**
 
 ## **1. Redis**
