@@ -1,12 +1,12 @@
 # **📜 목차**
 
-1. [서비스 소개](https://www.notion.so/README-d47fe0cc6542482cb92383db4eca1b04?pvs=21)
-2. [기획 배경](https://www.notion.so/README-d47fe0cc6542482cb92383db4eca1b04?pvs=21)
-3. [화면소개](https://www.notion.so/README-d47fe0cc6542482cb92383db4eca1b04?pvs=21)
-4. [기술 스택](https://www.notion.so/README-d47fe0cc6542482cb92383db4eca1b04?pvs=21)
-5. [기술 특이점](https://www.notion.so/README-d47fe0cc6542482cb92383db4eca1b04?pvs=21)
-6. [서비스 아키텍처](https://www.notion.so/README-d47fe0cc6542482cb92383db4eca1b04?pvs=21)
-7. [프로젝트 산출물](https://www.notion.so/README-d47fe0cc6542482cb92383db4eca1b04?pvs=21)
+1. [서비스 소개](https://github.com/dldydtn0805/MakJa?tab=readme-ov-file#%EC%84%9C%EB%B9%84%EC%8A%A4-%EC%86%8C%EA%B0%9C)
+2. [기획 배경](https://github.com/dldydtn0805/MakJa?tab=readme-ov-file#%EA%B8%B0%ED%9A%8D-%EB%B0%B0%EA%B2%BD-)
+3. [화면소개](https://github.com/dldydtn0805/MakJa?tab=readme-ov-file#%EF%B8%8F-%ED%99%94%EB%A9%B4-%EC%86%8C%EA%B0%9C)
+4. [기술 스택](https://github.com/dldydtn0805/MakJa?tab=readme-ov-file#-%EA%B8%B0%EC%88%A0-%EC%8A%A4%ED%83%9D-)
+5. [기술 특이점](https://github.com/dldydtn0805/MakJa?tab=readme-ov-file#-%EA%B8%B0%EC%88%A0-%ED%8A%B9%EC%9D%B4%EC%A0%90)
+6. [서비스 아키텍처](https://github.com/dldydtn0805/MakJa?tab=readme-ov-file#-%EC%84%9C%EB%B9%84%EC%8A%A4-%EC%95%84%ED%82%A4%ED%85%8D%EC%B2%98)
+7. [프로젝트 산출물](https://github.com/dldydtn0805/MakJa?tab=readme-ov-file#-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EC%82%B0%EC%B6%9C%EB%AC%BC)
 
 ---
 
