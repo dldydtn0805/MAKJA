@@ -45,9 +45,9 @@
 
 ## 1. 플레이어
 - 이동
-![이동](https://github.com/dldydtn0805/MakJa/assets/139421083/4d2aea9d-40b8-426e-9d92-f30373764443)
+    - ![이동](https://github.com/dldydtn0805/MakJa/assets/139421083/4d2aea9d-40b8-426e-9d92-f30373764443)
 - 텔레포트
-![텔레포트](https://github.com/dldydtn0805/MakJa/assets/139421083/d7d2fc0a-6896-4c5d-b5de-a24dba594deb)
+    - ![텔레포트](https://github.com/dldydtn0805/MakJa/assets/139421083/d7d2fc0a-6896-4c5d-b5de-a24dba594deb)
 - 공격
 - 레벨업
 - 강화
