@@ -109,7 +109,6 @@
 <img src="https://github.com/dldydtn0805/MakJa/assets/139421083/7b3f0d46-382c-478d-9636-322446f814ad" width="300" height="200">
 
 - 랭킹
-<br>
 <img src="https://github.com/dldydtn0805/MakJa/assets/139421083/ae302cc4-a11d-415e-9f4e-edb64285a799" width="300" height="200">
 
 
