@@ -45,13 +45,56 @@
 
 ## 1. 플레이어
 - 이동
-    - ![이동](https://github.com/dldydtn0805/MakJa/assets/139421083/4d2aea9d-40b8-426e-9d92-f30373764443)
+![이동](https://github.com/dldydtn0805/MakJa/assets/139421083/4d2aea9d-40b8-426e-9d92-f30373764443)
 - 텔레포트
-    - ![텔레포트](https://github.com/dldydtn0805/MakJa/assets/139421083/d7d2fc0a-6896-4c5d-b5de-a24dba594deb)
-- 공격
+![텔레포트](https://github.com/dldydtn0805/MakJa/assets/139421083/d7d2fc0a-6896-4c5d-b5de-a24dba594deb)
+- 근접 공격
+![근접 공격](https://github.com/dldydtn0805/MakJa/assets/139421083/345cfda0-9c76-43fd-8358-2b16d16b03aa)
+- 기본 공격
+![원거리 공격](https://github.com/dldydtn0805/MakJa/assets/139421083/fa373bc6-2b2e-4952-924a-286cf5f6030c)
+- Q 공격
+![Q 공격](https://github.com/dldydtn0805/MakJa/assets/139421083/545495ba-92d1-46dc-95f8-989caf9ce592)
+- E 공격
+![E 공격](https://github.com/dldydtn0805/MakJa/assets/139421083/9e909e74-3c6d-4b44-a216-8a33c69c9a1d)
+- R 공격
+![R 공격](https://github.com/dldydtn0805/MakJa/assets/139421083/fc5651dc-7a86-4ae4-849e-c63a495f74c3)
 - 레벨업
-- 강화
+![레벨업](https://github.com/dldydtn0805/MakJa/assets/139421083/d46252a4-a6f4-4bd8-8d34-fd5c9bbe5bfb)
+- 강화성공
+![강화 성공](https://github.com/dldydtn0805/MakJa/assets/139421083/bdf957cd-15d2-4cf0-a12b-274b20469cb0)
+- 강화실패
+![강화 실패](https://github.com/dldydtn0805/MakJa/assets/139421083/5b133ab0-f3e0-49f2-9338-c6d0e4b525b8)
 
+이동
+<img src="https://github.com/dldydtn0805/MakJa/assets/139421083/4d2aea9d-40b8-426e-9d92-f30373764443" width="300" height="200">
+
+텔레포트
+<img src="https://github.com/dldydtn0805/MakJa/assets/139421083/d7d2fc0a-6896-4c5d-b5de-a24dba594deb" width="300" height="200">
+
+근접 공격
+<img src="https://github.com/dldydtn0805/MakJa/assets/139421083/345cfda0-9c76-43fd-8358-2b16d16b03aa" width="300" height="200">
+
+기본 공격
+<img src="https://github.com/dldydtn0805/MakJa/assets/139421083/fa373bc6-2b2e-4952-924a-286cf5f6030c" width="300" height="200">
+
+Q 공격
+<img src="https://github.com/dldydtn0805/MakJa/assets/139421083/545495ba-92d1-46dc-95f8-989caf9ce592" width="300" height="200">
+
+E 공격
+<img src="https://github.com/dldydtn0805/MakJa/assets/139421083/9e909e74-3c6d-4b44-a216-8a33c69c9a1d" width="300" height="200">
+
+R 공격
+<img src="https://github.com/dldydtn0805/MakJa/assets/139421083/fc5651dc-7a86-4ae4-849e-c63a495f74c3" width="300" height="200">
+
+레벨업
+<img src="https://github.com/dldydtn0805/MakJa/assets/139421083/d46252a4-a6f4-4bd8-8d34-fd5c9bbe5bfb" width="300" height="200">
+
+강화성공
+<img src="https://github.com/dldydtn0805/MakJa/assets/139421083/bdf957cd-15d2-4cf0-a12b-274b20469cb0" width="300" height="200">
+
+강화실패
+
+<img src="https://github.com/dldydtn0805/MakJa/assets/139421083/5b133ab0-f3e0-49f2-9338-c6d0e4b525b8" width="300" height="200">
 
 ## 2. 타워
 
