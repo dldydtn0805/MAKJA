@@ -46,10 +46,10 @@
 ## 플레이어
 
 - 이동
-<img src="https://github.com/dldydtn0805/MakJa/assets/139421083/4d2aea9d-40b8-426e-9d92-f30373764443" width="300" height="200">
+<img src="https://github.com/dldydtn0805/MakJa/assets/139421083/4d2aea9d-40b8-426e-9d92-f30373764443" width="1280" height="720">
 
 - 텔레포트
-<img src="https://github.com/dldydtn0805/MakJa/assets/139421083/d7d2fc0a-6896-4c5d-b5de-a24dba594deb" width="300" height="200">
+<img src="https://github.com/dldydtn0805/MakJa/assets/139421083/d7d2fc0a-6896-4c5d-b5de-a24dba594deb" width="1280" height="720">
 
 - 근접 공격
 <img src="https://github.com/dldydtn0805/MakJa/assets/139421083/345cfda0-9c76-43fd-8358-2b16d16b03aa" width="300" height="200">
